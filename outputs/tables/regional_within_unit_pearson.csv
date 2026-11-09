@@ -1,0 +1,4 @@
+metric,unemployment_rate,employed,participation_rate
+unemployment_rate,1.0,-0.580235423225783,-0.05586305821988891
+employed,-0.580235423225783,1.0,0.5283650374359555
+participation_rate,-0.05586305821988891,0.5283650374359555,1.0

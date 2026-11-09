@@ -1,0 +1,21 @@
+{
+  "source": "https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/gokulrajkmv/unemployment-in-india",
+  "acquisition": "Official Kaggle public dataset API (unauthenticated ZIP)",
+  "downloaded_at_utc": "2026-11-09T15:32:41.277456+00:00",
+  "archive_sha256": "92164613f3d4edab8dce3e7d3ba362a7cbabc1f257f354ce3506984047132c1c",
+  "files": {
+    "Unemployment in India.csv": {
+      "bytes": 47043,
+      "sha256": "e7a4cc847297edc033610082a6b333f0fe56e9e74d01384da474bd13ec5d5891",
+      "rows": 768,
+      "columns": 7
+    },
+    "Unemployment_Rate_upto_11_2020.csv": {
+      "bytes": 18274,
+      "sha256": "51bdb8f26de85880c260fdd7acd69373bc4db5872e6e68bbb4d1742f9abd1d8e",
+      "rows": 267,
+      "columns": 9
+    }
+  }
+}

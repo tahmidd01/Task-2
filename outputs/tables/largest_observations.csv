@@ -1,0 +1,21 @@
+region,date,frequency,unemployment_rate,employed,participation_rate,area,month,iqr_outlier,source,macro_region,latitude,longitude
+Puducherry,2020-04-30,Monthly,76.74,68122.0,35.54,Urban,2020-04-01,True,area,,,
+Puducherry,2020-05-31,Monthly,75.0,64538.0,31.25,Urban,2020-05-01,True,area,,,
+Puducherry,2020-04-30,Monthly,74.51,49420.0,46.79,Rural,2020-04-01,True,area,,,
+Jharkhand,2020-05-31,Monthly,70.17,830347.0,40.49,Urban,2020-05-01,True,area,,,
+Jharkhand,2020-04-30,Monthly,61.48,1054829.0,39.92,Urban,2020-04-01,True,area,,,
+Bihar,2020-04-30,Monthly,58.77,1400962.0,34.94,Urban,2020-04-01,True,area,,,
+Jharkhand,2020-05-31,Monthly,55.1,3315038.0,37.03,Rural,2020-05-01,True,area,,,
+Tamil Nadu,2020-04-30,Monthly,53.19,5086200.0,33.05,Rural,2020-04-01,True,area,,,
+Himachal Pradesh,2020-05-31,Monthly,50.0,134868.0,43.55,Urban,2020-05-01,True,area,,,
+Bihar,2020-05-31,Monthly,47.26,14050319.0,38.5,Rural,2020-05-01,True,area,,,
+Puducherry,2020-04-30,Monthly,75.85,117542.0,39.3,,2020-04-01,True,regional,South,11.9416,79.8083
+Jharkhand,2020-05-31,Monthly,59.23,4145385.0,37.92,,2020-05-01,True,regional,East,23.6102,85.2799
+Puducherry,2020-05-31,Monthly,58.19,172308.0,33.19,,2020-05-01,True,regional,South,11.9416,79.8083
+Tamil Nadu,2020-04-30,Monthly,49.83,9719167.0,29.63,,2020-04-01,True,regional,South,11.1271,78.6569
+Jharkhand,2020-04-30,Monthly,47.09,5335262.0,37.69,,2020-04-01,True,regional,East,23.6102,85.2799
+Bihar,2020-04-30,Monthly,46.64,16046236.0,38.17,,2020-04-01,True,regional,East,25.0961,85.3131
+Bihar,2020-05-31,Monthly,45.96,16280203.0,38.16,,2020-05-01,True,regional,East,25.0961,85.3131
+Haryana,2020-04-30,Monthly,43.22,5647630.0,44.38,,2020-04-01,True,regional,North,29.0588,76.0856
+Delhi,2020-05-31,Monthly,42.27,2632404.0,28.91,,2020-05-01,True,regional,North,28.7041,77.1025
+Tripura,2020-04-30,Monthly,41.23,971514.0,51.16,,2020-04-01,True,regional,Northeast,23.9408,91.9882

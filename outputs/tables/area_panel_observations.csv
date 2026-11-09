@@ -1,0 +1,241 @@
+region,date,frequency,unemployment_rate,employed,participation_rate,area,month,iqr_outlier,period
+Andhra Pradesh,2020-01-31,Monthly,4.84,12016676.0,43.46,Rural,2020-01-01,False,Baseline
+Andhra Pradesh,2020-01-31,Monthly,7.11,4618860.0,35.91,Urban,2020-01-01,False,Baseline
+Andhra Pradesh,2020-02-29,Monthly,5.91,11723617.0,42.83,Rural,2020-02-01,False,Baseline
+Andhra Pradesh,2020-02-29,Monthly,5.66,4822035.0,36.84,Urban,2020-02-01,False,Baseline
+Andhra Pradesh,2020-03-31,Monthly,4.06,11359660.0,40.66,Rural,2020-03-01,False,Transition
+Andhra Pradesh,2020-03-31,Monthly,9.88,4521537.0,36.08,Urban,2020-03-01,False,Transition
+Andhra Pradesh,2020-04-30,Monthly,16.29,8792827.0,36.03,Rural,2020-04-01,False,Shock
+Andhra Pradesh,2020-04-30,Monthly,32.3,2544084.0,26.97,Urban,2020-04-01,False,Shock
+Andhra Pradesh,2020-05-31,Monthly,14.46,9526902.0,38.16,Rural,2020-05-01,False,Shock
+Andhra Pradesh,2020-05-31,Monthly,24.91,3428356.0,32.69,Urban,2020-05-01,False,Shock
+Andhra Pradesh,2020-06-30,Monthly,0.85,15572975.0,53.76,Rural,2020-06-01,False,Reopening
+Andhra Pradesh,2020-06-30,Monthly,5.86,4954389.0,37.61,Urban,2020-06-01,False,Reopening
+Bihar,2020-01-31,Monthly,9.13,23409006.0,37.54,Rural,2020-01-01,False,Baseline
+Bihar,2020-01-31,Monthly,20.69,2988665.0,38.99,Urban,2020-01-01,False,Baseline
+Bihar,2020-02-29,Monthly,9.61,23168192.0,37.28,Rural,2020-02-01,False,Baseline
+Bihar,2020-02-29,Monthly,15.11,3113464.0,37.87,Urban,2020-02-01,False,Baseline
+Bihar,2020-03-31,Monthly,15.39,22667882.0,38.88,Rural,2020-03-01,False,Transition
+Bihar,2020-03-31,Monthly,15.73,3049637.0,37.29,Urban,2020-03-01,False,Transition
+Bihar,2020-04-30,Monthly,45.09,14645275.0,38.63,Rural,2020-04-01,True,Shock
+Bihar,2020-04-30,Monthly,58.77,1400962.0,34.94,Urban,2020-04-01,True,Shock
+Bihar,2020-05-31,Monthly,47.26,14050319.0,38.5,Rural,2020-05-01,True,Shock
+Bihar,2020-05-31,Monthly,37.87,2207026.0,36.45,Urban,2020-05-01,True,Shock
+Bihar,2020-06-30,Monthly,20.49,20622566.0,37.4,Rural,2020-06-01,False,Reopening
+Bihar,2020-06-30,Monthly,12.45,3124663.0,36.54,Urban,2020-06-01,False,Reopening
+Chhattisgarh,2020-01-31,Monthly,9.89,6236201.0,42.03,Rural,2020-01-01,False,Baseline
+Chhattisgarh,2020-01-31,Monthly,9.01,2315972.0,46.21,Urban,2020-01-01,False,Baseline
+Chhattisgarh,2020-02-29,Monthly,7.89,6847173.0,45.05,Rural,2020-02-01,False,Baseline
+Chhattisgarh,2020-02-29,Monthly,9.79,2347941.0,47.14,Urban,2020-02-01,False,Baseline
+Chhattisgarh,2020-03-31,Monthly,7.31,6894808.0,44.98,Rural,2020-03-01,False,Transition
+Chhattisgarh,2020-03-31,Monthly,8.21,2407509.0,47.39,Urban,2020-03-01,False,Transition
+Chhattisgarh,2020-04-30,Monthly,0.0,6534321.0,39.43,Rural,2020-04-01,False,Shock
+Chhattisgarh,2020-04-30,Monthly,20.13,1066126.0,24.06,Urban,2020-04-01,False,Shock
+Chhattisgarh,2020-05-31,Monthly,7.64,5454091.0,35.56,Rural,2020-05-01,False,Shock
+Chhattisgarh,2020-05-31,Monthly,24.1,1276291.0,30.24,Urban,2020-05-01,False,Shock
+Chhattisgarh,2020-06-30,Monthly,10.14,5781095.0,38.66,Rural,2020-06-01,False,Reopening
+Chhattisgarh,2020-06-30,Monthly,27.07,1602231.0,39.41,Urban,2020-06-01,False,Reopening
+Delhi,2020-01-31,Monthly,13.48,157791.0,38.36,Rural,2020-01-01,False,Baseline
+Delhi,2020-01-31,Monthly,22.45,5647493.0,48.09,Urban,2020-01-01,False,Baseline
+Delhi,2020-02-29,Monthly,13.81,147500.0,35.84,Rural,2020-02-01,False,Baseline
+Delhi,2020-02-29,Monthly,14.86,5708807.0,44.18,Urban,2020-02-01,False,Baseline
+Delhi,2020-03-31,Monthly,15.18,152413.0,37.45,Rural,2020-03-01,False,Transition
+Delhi,2020-03-31,Monthly,17.09,5401392.0,42.82,Urban,2020-03-01,False,Transition
+Delhi,2020-04-30,Monthly,20.69,115487.0,30.21,Rural,2020-04-01,False,Shock
+Delhi,2020-04-30,Monthly,16.51,3003787.0,23.59,Urban,2020-04-01,False,Shock
+Delhi,2020-05-31,Monthly,22.76,129610.0,34.65,Rural,2020-05-01,False,Shock
+Delhi,2020-05-31,Monthly,45.78,2343783.0,28.28,Urban,2020-05-01,True,Shock
+Delhi,2020-06-30,Monthly,21.14,112108.0,29.22,Rural,2020-06-01,False,Reopening
+Delhi,2020-06-30,Monthly,18.11,4306807.0,34.32,Urban,2020-06-01,False,Reopening
+Gujarat,2020-01-31,Monthly,5.35,14301844.0,54.07,Rural,2020-01-01,False,Baseline
+Gujarat,2020-01-31,Monthly,5.82,9824501.0,42.19,Urban,2020-01-01,False,Baseline
+Gujarat,2020-02-29,Monthly,6.64,13973042.0,53.48,Rural,2020-02-01,False,Baseline
+Gujarat,2020-02-29,Monthly,6.04,10784753.0,46.31,Urban,2020-02-01,False,Baseline
+Gujarat,2020-03-31,Monthly,7.59,13483615.0,52.06,Rural,2020-03-01,False,Transition
+Gujarat,2020-03-31,Monthly,5.39,10083026.0,42.9,Urban,2020-03-01,False,Transition
+Gujarat,2020-04-30,Monthly,12.0,8587594.0,34.77,Rural,2020-04-01,False,Shock
+Gujarat,2020-04-30,Monthly,25.94,6701284.0,36.33,Urban,2020-04-01,False,Shock
+Gujarat,2020-05-31,Monthly,14.58,11121124.0,46.31,Rural,2020-05-01,False,Shock
+Gujarat,2020-05-31,Monthly,11.62,6072776.0,27.52,Urban,2020-05-01,False,Shock
+Gujarat,2020-06-30,Monthly,1.41,13243922.0,47.72,Rural,2020-06-01,False,Reopening
+Gujarat,2020-06-30,Monthly,4.54,10574711.0,44.26,Urban,2020-06-01,False,Reopening
+Haryana,2020-01-31,Monthly,16.21,5062293.0,43.74,Rural,2020-01-01,False,Baseline
+Haryana,2020-01-31,Monthly,27.24,2630938.0,42.75,Urban,2020-01-01,False,Baseline
+Haryana,2020-02-29,Monthly,27.19,4570108.0,45.37,Rural,2020-02-01,False,Baseline
+Haryana,2020-02-29,Monthly,23.29,2752834.0,42.32,Urban,2020-02-01,False,Baseline
+Haryana,2020-03-31,Monthly,23.92,4366148.0,41.4,Rural,2020-03-01,False,Transition
+Haryana,2020-03-31,Monthly,27.14,2275407.0,36.73,Urban,2020-03-01,False,Transition
+Haryana,2020-04-30,Monthly,41.61,4041050.0,49.85,Rural,2020-04-01,True,Shock
+Haryana,2020-04-30,Monthly,46.89,1606580.0,35.48,Urban,2020-04-01,True,Shock
+Haryana,2020-05-31,Monthly,34.22,3914193.0,42.78,Rural,2020-05-01,True,Shock
+Haryana,2020-05-31,Monthly,38.46,2013083.0,38.27,Urban,2020-05-01,True,Shock
+Haryana,2020-06-30,Monthly,35.57,4357835.0,48.53,Rural,2020-06-01,True,Reopening
+Haryana,2020-06-30,Monthly,29.41,2304138.0,38.09,Urban,2020-06-01,False,Reopening
+Himachal Pradesh,2020-01-31,Monthly,16.67,2041035.0,45.11,Rural,2020-01-01,False,Baseline
+Himachal Pradesh,2020-01-31,Monthly,18.15,246596.0,48.92,Urban,2020-01-01,False,Baseline
+Himachal Pradesh,2020-02-29,Monthly,15.42,1952464.0,42.45,Rural,2020-02-01,False,Baseline
+Himachal Pradesh,2020-02-29,Monthly,27.31,227804.0,50.82,Urban,2020-02-01,False,Baseline
+Himachal Pradesh,2020-03-31,Monthly,17.71,1800426.0,40.17,Rural,2020-03-01,False,Transition
+Himachal Pradesh,2020-03-31,Monthly,26.44,221432.0,48.74,Urban,2020-03-01,False,Transition
+Himachal Pradesh,2020-04-30,Monthly,2.13,984171.0,18.43,Rural,2020-04-01,False,Shock
+Himachal Pradesh,2020-04-30,Monthly,2.7,146957.0,24.42,Urban,2020-04-01,False,Shock
+Himachal Pradesh,2020-05-31,Monthly,25.64,1732050.0,42.62,Rural,2020-05-01,False,Shock
+Himachal Pradesh,2020-05-31,Monthly,50.0,134868.0,43.55,Urban,2020-05-01,True,Shock
+Himachal Pradesh,2020-06-30,Monthly,1.12,2230075.0,41.2,Rural,2020-06-01,False,Reopening
+Himachal Pradesh,2020-06-30,Monthly,10.81,224902.0,40.66,Urban,2020-06-01,False,Reopening
+Jharkhand,2020-01-31,Monthly,6.16,7868736.0,42.43,Rural,2020-01-01,False,Baseline
+Jharkhand,2020-01-31,Monthly,22.96,2329293.0,44.33,Urban,2020-01-01,False,Baseline
+Jharkhand,2020-02-29,Monthly,9.06,7932402.0,44.05,Rural,2020-02-01,False,Baseline
+Jharkhand,2020-02-29,Monthly,19.67,2493023.0,45.42,Urban,2020-02-01,False,Baseline
+Jharkhand,2020-03-31,Monthly,5.01,7157454.0,37.96,Rural,2020-03-01,False,Transition
+Jharkhand,2020-03-31,Monthly,16.4,2480661.0,43.34,Urban,2020-03-01,False,Transition
+Jharkhand,2020-04-30,Monthly,41.72,4280434.0,36.92,Rural,2020-04-01,True,Shock
+Jharkhand,2020-04-30,Monthly,61.48,1054829.0,39.92,Urban,2020-04-01,True,Shock
+Jharkhand,2020-05-31,Monthly,55.1,3315038.0,37.03,Rural,2020-05-01,True,Shock
+Jharkhand,2020-05-31,Monthly,70.17,830347.0,40.49,Urban,2020-05-01,True,Shock
+Jharkhand,2020-06-30,Monthly,21.53,6375114.0,40.65,Rural,2020-06-01,False,Reopening
+Jharkhand,2020-06-30,Monthly,19.38,2244460.0,40.43,Urban,2020-06-01,False,Reopening
+Karnataka,2020-01-31,Monthly,2.57,13938874.0,44.52,Rural,2020-01-01,False,Baseline
+Karnataka,2020-01-31,Monthly,3.31,8749154.0,38.94,Urban,2020-01-01,False,Baseline
+Karnataka,2020-02-29,Monthly,4.11,12753657.0,41.33,Rural,2020-02-01,False,Baseline
+Karnataka,2020-02-29,Monthly,2.88,8924061.0,39.45,Urban,2020-02-01,False,Baseline
+Karnataka,2020-03-31,Monthly,2.39,12853818.0,40.85,Rural,2020-03-01,False,Transition
+Karnataka,2020-03-31,Monthly,4.92,9225835.0,41.55,Urban,2020-03-01,False,Transition
+Karnataka,2020-04-30,Monthly,33.17,9330400.0,43.25,Rural,2020-04-01,True,Shock
+Karnataka,2020-04-30,Monthly,25.12,7387995.0,42.14,Urban,2020-04-01,False,Shock
+Karnataka,2020-05-31,Monthly,23.72,10626328.0,43.09,Rural,2020-05-01,False,Shock
+Karnataka,2020-05-31,Monthly,15.88,8669258.0,43.9,Urban,2020-05-01,False,Shock
+Karnataka,2020-06-30,Monthly,10.92,15396213.0,53.37,Rural,2020-06-01,False,Reopening
+Karnataka,2020-06-30,Monthly,6.12,8822411.0,39.93,Urban,2020-06-01,False,Reopening
+Kerala,2020-01-31,Monthly,4.11,5307026.0,37.66,Rural,2020-01-01,False,Baseline
+Kerala,2020-01-31,Monthly,6.65,4597507.0,36.53,Urban,2020-01-01,False,Baseline
+Kerala,2020-02-29,Monthly,8.91,5203579.0,38.84,Rural,2020-02-01,False,Baseline
+Kerala,2020-02-29,Monthly,6.08,4624444.0,36.48,Urban,2020-02-01,False,Baseline
+Kerala,2020-03-31,Monthly,8.85,4141953.0,30.87,Rural,2020-03-01,False,Transition
+Kerala,2020-03-31,Monthly,9.14,4079775.0,33.24,Urban,2020-03-01,False,Transition
+Kerala,2020-04-30,Monthly,10.71,1754170.0,13.33,Rural,2020-04-01,False,Shock
+Kerala,2020-04-30,Monthly,21.43,2179106.0,20.51,Urban,2020-04-01,False,Shock
+Kerala,2020-05-31,Monthly,23.38,3799919.0,33.62,Rural,2020-05-01,False,Shock
+Kerala,2020-05-31,Monthly,30.28,2826118.0,29.95,Urban,2020-05-01,False,Shock
+Kerala,2020-06-30,Monthly,27.66,3952088.0,37.01,Rural,2020-06-01,False,Reopening
+Kerala,2020-06-30,Monthly,12.17,4601293.0,38.68,Urban,2020-06-01,False,Reopening
+Madhya Pradesh,2020-01-31,Monthly,3.66,16183702.0,39.35,Rural,2020-01-01,False,Baseline
+Madhya Pradesh,2020-01-31,Monthly,5.17,6834930.0,39.59,Urban,2020-01-01,False,Baseline
+Madhya Pradesh,2020-02-29,Monthly,4.42,16178044.0,39.57,Rural,2020-02-01,False,Baseline
+Madhya Pradesh,2020-02-29,Monthly,4.96,6533435.0,37.68,Urban,2020-02-01,False,Baseline
+Madhya Pradesh,2020-03-31,Monthly,1.19,16480441.0,38.9,Rural,2020-03-01,False,Transition
+Madhya Pradesh,2020-03-31,Monthly,4.8,6386723.0,36.68,Urban,2020-03-01,False,Transition
+Madhya Pradesh,2020-04-30,Monthly,12.5,14238959.0,37.88,Rural,2020-04-01,False,Shock
+Madhya Pradesh,2020-04-30,Monthly,11.94,4802873.0,29.76,Urban,2020-04-01,False,Shock
+Madhya Pradesh,2020-05-31,Monthly,22.46,13099601.0,39.24,Rural,2020-05-01,False,Shock
+Madhya Pradesh,2020-05-31,Monthly,40.49,3879934.0,35.49,Urban,2020-05-01,True,Shock
+Madhya Pradesh,2020-06-30,Monthly,6.46,16748971.0,41.5,Rural,2020-06-01,False,Reopening
+Madhya Pradesh,2020-06-30,Monthly,12.72,6221562.0,38.72,Urban,2020-06-01,False,Reopening
+Maharashtra,2020-01-31,Monthly,3.8,25881398.0,50.36,Rural,2020-01-01,False,Baseline
+Maharashtra,2020-01-31,Monthly,6.67,16715470.0,37.32,Urban,2020-01-01,False,Baseline
+Maharashtra,2020-02-29,Monthly,4.24,25293535.0,49.36,Rural,2020-02-01,False,Baseline
+Maharashtra,2020-02-29,Monthly,5.34,17122782.0,37.61,Urban,2020-02-01,False,Baseline
+Maharashtra,2020-03-31,Monthly,5.38,23130976.0,45.6,Rural,2020-03-01,False,Transition
+Maharashtra,2020-03-31,Monthly,6.34,17065830.0,37.8,Urban,2020-03-01,False,Transition
+Maharashtra,2020-04-30,Monthly,25.28,15014802.0,37.42,Rural,2020-04-01,False,Shock
+Maharashtra,2020-04-30,Monthly,14.99,12674451.0,30.86,Urban,2020-04-01,False,Shock
+Maharashtra,2020-05-31,Monthly,16.89,18423447.0,41.21,Rural,2020-05-01,False,Shock
+Maharashtra,2020-05-31,Monthly,15.92,12365754.0,30.38,Urban,2020-05-01,False,Shock
+Maharashtra,2020-06-30,Monthly,9.4,23601016.0,48.34,Rural,2020-06-01,False,Reopening
+Maharashtra,2020-06-30,Monthly,10.01,16172690.0,37.04,Urban,2020-06-01,False,Reopening
+Odisha,2020-01-31,Monthly,1.81,11182128.0,39.09,Rural,2020-01-01,False,Baseline
+Odisha,2020-01-31,Monthly,2.28,2561320.0,41.05,Urban,2020-01-01,False,Baseline
+Odisha,2020-02-29,Monthly,3.31,11842655.0,41.98,Rural,2020-02-01,False,Baseline
+Odisha,2020-02-29,Monthly,2.19,2438080.0,38.97,Urban,2020-02-01,False,Baseline
+Odisha,2020-03-31,Monthly,15.09,9814156.0,39.55,Rural,2020-03-01,False,Transition
+Odisha,2020-03-31,Monthly,3.96,2457952.0,39.93,Urban,2020-03-01,False,Transition
+Odisha,2020-04-30,Monthly,24.48,5562449.0,25.16,Rural,2020-04-01,False,Shock
+Odisha,2020-04-30,Monthly,20.5,1303244.0,25.53,Urban,2020-04-01,False,Shock
+Odisha,2020-05-31,Monthly,9.45,9683719.0,36.48,Rural,2020-05-01,False,Shock
+Odisha,2020-05-31,Monthly,10.0,1975481.0,34.12,Urban,2020-05-01,False,Shock
+Odisha,2020-06-30,Monthly,4.59,10187145.0,36.36,Rural,2020-06-01,False,Reopening
+Odisha,2020-06-30,Monthly,2.18,2221069.0,35.24,Urban,2020-06-01,False,Reopening
+Punjab,2020-01-31,Monthly,9.69,6189471.0,45.22,Rural,2020-01-01,False,Baseline
+Punjab,2020-01-31,Monthly,13.68,3252622.0,39.04,Urban,2020-01-01,False,Baseline
+Punjab,2020-02-29,Monthly,10.41,6009820.0,44.19,Rural,2020-02-01,False,Baseline
+Punjab,2020-02-29,Monthly,11.99,3219227.0,37.82,Urban,2020-02-01,False,Baseline
+Punjab,2020-03-31,Monthly,10.51,6373692.0,46.85,Rural,2020-03-01,False,Transition
+Punjab,2020-03-31,Monthly,9.97,3601793.0,41.29,Urban,2020-03-01,False,Transition
+Punjab,2020-04-30,Monthly,3.69,4721590.0,32.2,Rural,2020-04-01,False,Shock
+Punjab,2020-04-30,Monthly,1.13,2298975.0,23.95,Urban,2020-04-01,False,Shock
+Punjab,2020-05-31,Monthly,40.59,3727366.0,41.14,Rural,2020-05-01,True,Shock
+Punjab,2020-05-31,Monthly,20.54,2682658.0,34.71,Urban,2020-05-01,False,Shock
+Punjab,2020-06-30,Monthly,20.0,5364047.0,43.9,Rural,2020-06-01,False,Reopening
+Punjab,2020-06-30,Monthly,10.55,3047750.0,34.96,Urban,2020-06-01,False,Reopening
+Rajasthan,2020-01-31,Monthly,8.0,15484353.0,40.12,Rural,2020-01-01,False,Baseline
+Rajasthan,2020-01-31,Monthly,18.82,5157363.0,41.59,Urban,2020-01-01,False,Baseline
+Rajasthan,2020-02-29,Monthly,14.48,15040572.0,41.83,Rural,2020-02-01,False,Baseline
+Rajasthan,2020-02-29,Monthly,17.02,5288343.0,41.62,Urban,2020-02-01,False,Baseline
+Rajasthan,2020-03-31,Monthly,9.47,15059769.0,39.47,Rural,2020-03-01,False,Transition
+Rajasthan,2020-03-31,Monthly,18.54,4964911.0,39.71,Urban,2020-03-01,False,Transition
+Rajasthan,2020-04-30,Monthly,12.25,13051219.0,35.21,Rural,2020-04-01,False,Shock
+Rajasthan,2020-04-30,Monthly,35.53,2932923.0,29.57,Urban,2020-04-01,True,Shock
+Rajasthan,2020-05-31,Monthly,10.45,15586833.0,41.11,Rural,2020-05-01,False,Shock
+Rajasthan,2020-05-31,Monthly,25.35,4225486.0,36.71,Urban,2020-05-01,False,Shock
+Rajasthan,2020-06-30,Monthly,13.86,16076978.0,43.98,Rural,2020-06-01,False,Reopening
+Rajasthan,2020-06-30,Monthly,13.04,5275784.0,39.26,Urban,2020-06-01,False,Reopening
+Tamil Nadu,2020-01-31,Monthly,1.18,14954646.0,46.23,Rural,2020-01-01,False,Baseline
+Tamil Nadu,2020-01-31,Monthly,2.05,11926995.0,37.64,Urban,2020-01-01,False,Baseline
+Tamil Nadu,2020-02-29,Monthly,1.17,15828488.0,48.86,Rural,2020-02-01,False,Baseline
+Tamil Nadu,2020-02-29,Monthly,3.31,11742101.0,37.48,Urban,2020-02-01,False,Baseline
+Tamil Nadu,2020-03-31,Monthly,6.36,15848590.0,51.56,Rural,2020-03-01,False,Transition
+Tamil Nadu,2020-03-31,Monthly,6.46,10982178.0,36.17,Urban,2020-03-01,False,Transition
+Tamil Nadu,2020-04-30,Monthly,53.19,5086200.0,33.05,Rural,2020-04-01,True,Shock
+Tamil Nadu,2020-04-30,Monthly,45.55,4632967.0,26.17,Urban,2020-04-01,True,Shock
+Tamil Nadu,2020-05-31,Monthly,38.73,5768342.0,28.6,Rural,2020-05-01,True,Shock
+Tamil Nadu,2020-05-31,Monthly,25.95,5733921.0,23.77,Urban,2020-05-01,False,Shock
+Tamil Nadu,2020-06-30,Monthly,2.06,10169115.0,31.49,Rural,2020-06-01,False,Reopening
+Tamil Nadu,2020-06-30,Monthly,24.93,7741005.0,31.6,Urban,2020-06-01,False,Reopening
+Telangana,2020-01-31,Monthly,5.02,12065915.0,68.51,Rural,2020-01-01,False,Baseline
+Telangana,2020-01-31,Monthly,6.49,5543380.0,45.95,Urban,2020-01-01,False,Baseline
+Telangana,2020-02-29,Monthly,9.02,11304474.0,66.92,Rural,2020-02-01,False,Baseline
+Telangana,2020-02-29,Monthly,6.74,5521496.0,45.78,Urban,2020-02-01,False,Baseline
+Telangana,2020-03-31,Monthly,5.63,12028377.0,68.53,Rural,2020-03-01,False,Transition
+Telangana,2020-03-31,Monthly,6.1,5313236.0,43.65,Urban,2020-03-01,False,Transition
+Telangana,2020-04-30,Monthly,4.51,8793799.0,49.44,Rural,2020-04-01,False,Shock
+Telangana,2020-04-30,Monthly,10.5,3378431.0,29.05,Urban,2020-04-01,False,Shock
+Telangana,2020-05-31,Monthly,34.01,7508747.0,61.0,Rural,2020-05-01,True,Shock
+Telangana,2020-05-31,Monthly,36.57,3108830.0,37.63,Urban,2020-05-01,True,Shock
+Telangana,2020-06-30,Monthly,19.3,8891181.0,58.97,Rural,2020-06-01,False,Reopening
+Telangana,2020-06-30,Monthly,6.92,4577995.0,37.68,Urban,2020-06-01,False,Reopening
+Tripura,2020-01-31,Monthly,31.91,1057975.0,68.61,Rural,2020-01-01,False,Baseline
+Tripura,2020-01-31,Monthly,34.37,450155.0,72.26,Urban,2020-01-01,True,Baseline
+Tripura,2020-02-29,Monthly,26.22,1169347.0,69.88,Rural,2020-02-01,False,Baseline
+Tripura,2020-02-29,Monthly,33.88,415339.0,66.04,Urban,2020-02-01,True,Baseline
+Tripura,2020-03-31,Monthly,31.61,1060946.0,68.28,Rural,2020-03-01,False,Transition
+Tripura,2020-03-31,Monthly,25.69,450271.0,63.56,Urban,2020-03-01,False,Transition
+Tripura,2020-04-30,Monthly,43.64,675083.0,52.63,Rural,2020-04-01,True,Shock
+Tripura,2020-04-30,Monthly,34.88,296431.0,47.65,Urban,2020-04-01,True,Shock
+Tripura,2020-05-31,Monthly,14.71,911789.0,46.9,Rural,2020-05-01,False,Shock
+Tripura,2020-05-31,Monthly,16.78,384999.0,48.31,Urban,2020-05-01,False,Shock
+Tripura,2020-06-30,Monthly,18.84,1106978.0,59.74,Rural,2020-06-01,False,Reopening
+Tripura,2020-06-30,Monthly,27.47,391015.0,56.17,Urban,2020-06-01,False,Reopening
+Uttar Pradesh,2020-01-31,Monthly,6.06,45777509.0,39.67,Rural,2020-01-01,False,Baseline
+Uttar Pradesh,2020-01-31,Monthly,12.34,13656250.0,39.52,Urban,2020-01-01,False,Baseline
+Uttar Pradesh,2020-02-29,Monthly,8.12,44257432.0,39.13,Rural,2020-02-01,False,Baseline
+Uttar Pradesh,2020-02-29,Monthly,11.65,13803099.0,39.54,Urban,2020-02-01,False,Baseline
+Uttar Pradesh,2020-03-31,Monthly,9.37,43086706.0,38.53,Rural,2020-03-01,False,Transition
+Uttar Pradesh,2020-03-31,Monthly,12.32,13889632.0,40.0,Urban,2020-03-01,False,Transition
+Uttar Pradesh,2020-04-30,Monthly,19.92,39970677.0,40.37,Rural,2020-04-01,False,Shock
+Uttar Pradesh,2020-04-30,Monthly,26.94,10944379.0,37.74,Urban,2020-04-01,False,Shock
+Uttar Pradesh,2020-05-31,Monthly,16.89,38640999.0,37.52,Rural,2020-05-01,False,Shock
+Uttar Pradesh,2020-05-31,Monthly,32.06,11111486.0,41.1,Urban,2020-05-01,False,Shock
+Uttar Pradesh,2020-06-30,Monthly,8.51,41908909.0,36.89,Rural,2020-06-01,False,Reopening
+Uttar Pradesh,2020-06-30,Monthly,13.05,13208724.0,38.09,Urban,2020-06-01,False,Reopening
+West Bengal,2020-01-31,Monthly,6.79,24612171.0,48.3,Rural,2020-01-01,False,Baseline
+West Bengal,2020-01-31,Monthly,7.27,11208617.0,45.39,Urban,2020-01-01,False,Baseline
+West Bengal,2020-02-29,Monthly,3.78,26093009.0,49.51,Rural,2020-02-01,False,Baseline
+West Bengal,2020-02-29,Monthly,7.55,10871168.0,44.09,Urban,2020-02-01,False,Baseline
+West Bengal,2020-03-31,Monthly,7.02,25097812.0,49.18,Rural,2020-03-01,False,Transition
+West Bengal,2020-03-31,Monthly,6.67,10806105.0,43.34,Urban,2020-03-01,False,Transition
+West Bengal,2020-04-30,Monthly,18.32,17639370.0,39.27,Rural,2020-04-01,False,Shock
+West Bengal,2020-04-30,Monthly,15.63,9299466.0,41.2,Urban,2020-04-01,False,Shock
+West Bengal,2020-05-31,Monthly,18.43,19115772.0,42.53,Rural,2020-05-01,False,Shock
+West Bengal,2020-05-31,Monthly,15.22,9240903.0,40.67,Urban,2020-05-01,False,Shock
+West Bengal,2020-06-30,Monthly,4.94,21225887.0,40.44,Rural,2020-06-01,False,Reopening
+West Bengal,2020-06-30,Monthly,9.86,9088931.0,37.57,Urban,2020-06-01,False,Reopening

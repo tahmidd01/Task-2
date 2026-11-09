@@ -1,0 +1,56 @@
+source,check,field,count,decision,pct_of_raw_rows
+area,input_rows,all,768,Count includes empty CSV records,
+area,blank_rows_removed,all,28,All fields empty,
+area,exact_duplicates_removed,all,0,Nonblank exact duplicates,
+area,raw_missing,region,28,Includes blank records,3.6458333333333335
+area,raw_missing,date,28,Includes blank records,3.6458333333333335
+area,raw_missing,frequency,28,Includes blank records,3.6458333333333335
+area,raw_missing,unemployment_rate,28,Includes blank records,3.6458333333333335
+area,raw_missing,employed,28,Includes blank records,3.6458333333333335
+area,raw_missing,participation_rate,28,Includes blank records,3.6458333333333335
+area,raw_missing,area,28,Includes blank records,3.6458333333333335
+area,nonblank_missing,region,0,Excludes blank and duplicate records,
+area,nonblank_missing,date,0,Excludes blank and duplicate records,
+area,nonblank_missing,frequency,0,Excludes blank and duplicate records,
+area,nonblank_missing,unemployment_rate,0,Excludes blank and duplicate records,
+area,nonblank_missing,employed,0,Excludes blank and duplicate records,
+area,nonblank_missing,participation_rate,0,Excludes blank and duplicate records,
+area,nonblank_missing,area,0,Excludes blank and duplicate records,
+area,invalid_to_missing,unemployment_rate,0,Retain the row; omit missing metric from applicable calculations,
+area,invalid_to_missing,employed,0,Retain the row; omit missing metric from applicable calculations,
+area,invalid_to_missing,participation_rate,0,Retain the row; omit missing metric from applicable calculations,
+area,invalid_key_rows_removed,all,0,"Requires valid region, monthly date, frequency and, where applicable, area",
+area,conflicting_keys,all,0,Native observation key is unique,
+area,iqr_flags_retained,unemployment_rate,35,1.5 IQR fences -12.19 to 32.73; retained,
+area,output_rows,all,740,No imputation,
+regional,input_rows,all,267,Count includes empty CSV records,
+regional,blank_rows_removed,all,0,All fields empty,
+regional,exact_duplicates_removed,all,0,Nonblank exact duplicates,
+regional,raw_missing,region,0,Includes blank records,0.0
+regional,raw_missing,date,0,Includes blank records,0.0
+regional,raw_missing,frequency,0,Includes blank records,0.0
+regional,raw_missing,unemployment_rate,0,Includes blank records,0.0
+regional,raw_missing,employed,0,Includes blank records,0.0
+regional,raw_missing,participation_rate,0,Includes blank records,0.0
+regional,raw_missing,macro_region,0,Includes blank records,0.0
+regional,raw_missing,longitude,0,Includes blank records,0.0
+regional,raw_missing,latitude,0,Includes blank records,0.0
+regional,nonblank_missing,region,0,Excludes blank and duplicate records,
+regional,nonblank_missing,date,0,Excludes blank and duplicate records,
+regional,nonblank_missing,frequency,0,Excludes blank and duplicate records,
+regional,nonblank_missing,unemployment_rate,0,Excludes blank and duplicate records,
+regional,nonblank_missing,employed,0,Excludes blank and duplicate records,
+regional,nonblank_missing,participation_rate,0,Excludes blank and duplicate records,
+regional,nonblank_missing,macro_region,0,Excludes blank and duplicate records,
+regional,nonblank_missing,longitude,0,Excludes blank and duplicate records,
+regional,nonblank_missing,latitude,0,Excludes blank and duplicate records,
+regional,coordinate_headers_swapped,"latitude,longitude",267,Source longitude contains northing in degrees; source latitude contains easting,
+regional,invalid_to_missing,unemployment_rate,0,Retain the row; omit missing metric from applicable calculations,
+regional,invalid_to_missing,employed,0,Retain the row; omit missing metric from applicable calculations,
+regional,invalid_to_missing,latitude,0,Retain the row; omit missing metric from applicable calculations,
+regional,invalid_to_missing,longitude,0,Retain the row; omit missing metric from applicable calculations,
+regional,invalid_to_missing,participation_rate,0,Retain the row; omit missing metric from applicable calculations,
+regional,invalid_key_rows_removed,all,0,"Requires valid region, monthly date, frequency and, where applicable, area",
+regional,conflicting_keys,all,0,Native observation key is unique,
+regional,iqr_flags_retained,unemployment_rate,10,1.5 IQR fences -13.02 to 34.62; retained,
+regional,output_rows,all,267,No imputation,

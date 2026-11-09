@@ -1,0 +1,16 @@
+2026-11-09 21:39:47,488 INFO Verifying original Kaggle CSVs and cleaning by observation grain
+2026-11-09 21:39:47,573 INFO Auditing source overlap and missingness; computing EDA
+2026-11-09 21:39:47,608 INFO Constructing matched COVID-19 and urban/rural comparisons
+2026-11-09 21:39:47,657 INFO Measuring time trends, year overlap, coverage and correlations
+2026-11-09 21:39:47,687 INFO Exporting 38 analysis tables
+2026-11-09 21:39:47,703 INFO Rendering 300-DPI figures
+2026-11-09 21:39:49,318 INFO Building the academic report
+2026-11-09 21:39:51,307 INFO Completed with 10 charts
+2026-11-09 21:42:56,491 INFO Verifying original Kaggle CSVs and cleaning by observation grain
+2026-11-09 21:42:56,523 INFO Auditing source overlap and missingness; computing EDA
+2026-11-09 21:42:56,560 INFO Constructing matched COVID-19 and urban/rural comparisons
+2026-11-09 21:42:56,607 INFO Measuring time trends, year overlap, coverage and correlations
+2026-11-09 21:42:56,640 INFO Exporting 38 analysis tables
+2026-11-09 21:42:56,657 INFO Rendering 300-DPI figures
+2026-11-09 21:42:58,248 INFO Building the academic report
+2026-11-09 21:43:00,124 INFO Completed with 10 charts
